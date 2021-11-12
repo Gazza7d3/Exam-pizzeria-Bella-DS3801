@@ -27,6 +27,7 @@ CONTENT
 -   Assessment criteria, for students and assessors.
 
 CASE TO SOLVE: PIZZERIA BELLA
+
 Pizzeria Bella is a fictive Italian restaurant. They want to design their online food ordering
 system, which can present pizza and pasta menus to customers and help to place an order.
 The layout shall be responsive to Mobile, Tablet and Desktop versions.
@@ -50,17 +51,17 @@ Functionality:
 
 Website layout:
 Suggested application layout at least includes below navigation pages:
-[x]   Home page
-[ ]   Product page/pages. Add to cart- function for each product.
-[ ]   Checkout page. It shall include 1) a shopping cart; 2) a mock-up section that contains
-      payment alternatives and shipping options; and 3) a mock-up “place an order”
-      button.
-[ ]   Note that you can have a separate shopping cart page too.
-      You decide how many and what products will be placed in the menu and present to the
-      customer. You have a lot of freedom regarding the content of the page. However, the
-      solution shall present good enough scope and complexity. For example, it is expected that
-      the solution should include 8-10 products for both Pizza and Pasta menus. The main point is
-      to get a prototype that can show the complexity of a solution that is close to reality.
+-   Home page
+-   Product page/pages. Add to cart- function for each product.
+-   Checkout page. It shall include 1) a shopping cart; 2) a mock-up section that contains
+    payment alternatives and shipping options; and 3) a mock-up “place an order”
+    button.
+-   Note that you can have a separate shopping cart page too.
+    You decide how many and what products will be placed in the menu and present to the
+    customer. You have a lot of freedom regarding the content of the page. However, the
+    solution shall present good enough scope and complexity. For example, it is expected that
+    the solution should include 8-10 products for both Pizza and Pasta menus. The main point is
+    to get a prototype that can show the complexity of a solution that is close to reality.
       
       
 WHAT ARE WE GOING TO DELIVER?
